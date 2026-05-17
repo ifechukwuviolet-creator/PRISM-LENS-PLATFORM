@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 ifechukwuviolet-creator
+Copyright (c) 2026 Prism Lens
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,4 +19,44 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-[FULL MIT License remains the same as standard version]
+⚖️ PRISM LENS — UPDATED LEGAL + BRANDING OWNERSHIP
+📜 1. MIT LICENSE (Updated Copyright Line)
+Use this at the top of your LICENSE file:
+Plain text
+Copyright (c) 2026 Prism Lens
+
+Creator: Ifechukwu Gift Morris  
+Founder: Violet Swings Glove - VSG LTD
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+(Then keep the rest of the standard MIT License unchanged.)
+🧠 2. OFFICIAL OWNERSHIP STATEMENT
+Add this to your README or legal page:
+Plain text
+Prism Lens is a digital marketplace platform created by Ifechukwu Gift Morris and founded under Violet Swings Glove - VSG LTD.
+
+All rights, branding identity, and strategic direction of Prism Lens are associated with its creators and founding entity.
+🔐 3. BRAND & LEGAL STRUCTURE
+Plain text
+Prism Lens Platform
+│
+├── Creator: Ifechukwu Gift Morris
+├── Founder Company: Violet Swings Glove - VSG LTD
+├── Code License: MIT License (open-source use allowed)
+└── Brand Identity: Protected (Prism Lens name + branding)
+⚠️ 4. BRAND PROTECTION RULE (UPDATED)
+Plain text
+The Prism Lens codebase is open-source under the MIT License.
+
+However:
+- The Prism Lens name
+- Logo
+- Branding identity
+- And company association with Violet Swings Glove - VSG LTD
+
+may not be used for commercial impersonation or competing rebranding without permission.
+🌍 5. FINAL OFFICIAL CREDIT LINE (FOR FOOTER / WEBSITE)
+You can use this anywhere (GitHub footer, website, pitch deck):
+Plain text
+Prism Lens — Created by Ifechukwu Gift Morris  
+Founded under Violet Swings Glove - VSG LTD
