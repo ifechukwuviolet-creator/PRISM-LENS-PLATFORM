@@ -68,9 +68,7 @@ Product → Prism Lens
 ├── app.js
 └── package.json)
 
-- Database: (MongoDB
-- Users)
-- 
+- Database: (MongoDB)
 Authentication:
 JWT + bcrypt
 Username + Password
