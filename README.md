@@ -11,7 +11,21 @@ Prism Lens is a digital marketplace ecosystem that empowers creators—writers, 
 
 ## 🎯 Purpose
 To give creators full control over their content, earnings, and audience without relying heavily on third-party platforms.
+README (branding section)
+Plain text
+Powered by VSM (Violet Swings Music) under Violet Swings Glove - VSG LTD ecosystem.
+✔ Website footer
+Plain text
+VSM × Prism Lens — Powered by VSG LTD
+🚀 Simple Breakdown
+Plain text
+LICENSE → Ifechukwu Gift Morris only
 
+Company → VSG LTD
+
+Brand/Label → VSM (optional, marketing only)
+
+Product → Prism Lens
 ## 🛠️ Tech Stack
 - Frontend: (<h1>Prism Lens</h1>
 - Next.js + React + Tailwind CSS
