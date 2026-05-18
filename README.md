@@ -131,3 +131,94 @@ Frontend (UI)
 ```bash
 git clone https://github.com/Ifechukwuviolet/prism-lens.git
 cd prism-lens
+
+👤 Professional Profile
+
+Profession / Title
+
+Founder • Full-Stack Developer • Creative Systems Architect
+
+💻 Top Skills
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Tailwind CSS
+- Git & GitHub
+- UI/UX System Design
+- Brand Architecture
+- Creator Economy Platforms
+- Digital Publishing Systems
+
+🚀 Featured Projects
+
+Prism Lens
+
+A next-generation creator economy ecosystem that combines:
+
+- creator marketplace
+- music streaming
+- digital publishing
+- monetization tools
+- creator distribution systems
+  into one unified platform.
+
+VSM Digital Infrastructure
+
+A creative and music-focused digital brand system under Violet Swings Globe - VSG LTD focused on artist development, branding, and media innovation.
+
+Creator Monetization Ecosystem (In Development)
+
+A scalable platform architecture focused on empowering independent creators, musicians, writers, and digital entrepreneurs globally.
+
+🎯 Current Focus
+
+Currently focused on building Prism Lens into a scalable global platform while expanding skills in:
+
+- scalable backend systems
+- cloud deployment
+- platform security
+- AI-enhanced creator tools
+- real-time streaming infrastructure
+
+🌍 About Me
+
+I am passionate about building technology that empowers creators with ownership, monetization freedom, and global reach.
+
+Prism Lens was inspired by the need for a unified ecosystem where creators can publish, distribute, monetize, and grow without relying entirely on third-party platforms.
+
+I enjoy combining creativity, technology, branding, and systems architecture to develop impactful digital ecosystems.
+
+❤️ Interests
+
+- Creator economy innovation
+- Music technology
+- AI tools
+- Startup ecosystems
+- Open-source collaboration
+- Platform engineering
+- Digital publishing
+- Brand systems
+
+🔗 Social Links
+
+GitHub:
+https://github.com/ifechukwuviolet-creator
+
+Website:
+https://www.prismlens.io
+
+Email:
+ifechukwuviolet@gmail.com
+
+LinkedIn:
+Currently setting up professional profile.
+
+🏆 Additional Information
+
+- Founder of Violet Swings Globe - VSG LTD
+- Building scalable creator-focused digital infrastructure
+- Focused on long-term platform innovation and global creator empowerment
+
