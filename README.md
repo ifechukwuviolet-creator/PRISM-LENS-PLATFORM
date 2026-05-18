@@ -14,7 +14,6 @@ To give creators full control over their content, earnings, and audience without
 
 Prism Lens is a digital marketplace where creators publish and sell music, ebooks, designs, videos, and other digital products directly to a global audience. Prism Lens is a digital ecosystem where creators publish, sell, and scale their work globally without middlemen.
 
-Plain text
 Powered by VSM (Violet Swings Music) under Violet Swings Glove - VSG LTD ecosystem.
 ✔ Website footer
 Plain text
