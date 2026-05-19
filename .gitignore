@@ -1,0 +1,135 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+# =========================
+# Dependencies
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# =========================
+# Build Outputs
+# =========================
+dist/
+build/
+.next/
+out/
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Coverage / Testing
+# =========================
+coverage/
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+
+# =========================
+# Backend Uploads (optional)
+# =========================
+uploads/
+prism-lens/
+│
+├── client/                         # FRONTEND (React / Next.js)
+│   │
+│   ├── public/
+│   ├── src/
+│   │   ├── app/                    # Next.js app router (or pages/)
+│   │   ├── components/            # Reusable UI components
+│   │   ├── pages/                 # Pages (if not using app router)
+│   │   ├── layouts/               # Page layouts
+│   │   ├── hooks/                 # Custom React hooks
+│   │   ├── context/               # Global state (Auth, Cart, etc.)
+│   │   ├── services/             # API calls (backend connection)
+│   │   ├── utils/                # Helper functions
+│   │   ├── styles/               # CSS / Tailwind configs
+│   │   └── assets/               # Images, icons, logos
+│   │
+│   ├── .env.local
+│   ├── next.config.js
+│   └── package.json
+│
+│
+├── server/                         # BACKEND (Node.js / Express)
+│   │
+│   ├── config/                    # DB + environment config
+│   ├── controllers/              # Business logic
+│   ├── models/                   # MongoDB schemas
+│   ├── routes/                   # API routes
+│   ├── middleware/              # Auth, error handling
+│   ├── services/                # Payment, email, storage logic
+│   ├── utils/                  # Helper functions
+│   ├── validations/           # Input validation rules
+│   ├── uploads/              # Local file storage (optional)
+│   ├── sockets/             # Real-time features (chat, alerts)
+│   │
+│   ├── server.js           # Entry point
+│   ├── app.js             # Express app setup
+│   ├── .env
+│   └── package.json
+│
+│
+├── shared/                    # Shared code (optional but powerful)
+│   ├── constants/
+│   ├── types/
+│   └── validators/
+│
+│
+├── docs/                    # Documentation
+│   ├── API.md
+│   ├── ARCHITECTURE.md
+│   └── BRANDING.md
+│
+│
+├── .gitignore
+├── README.md
+├── LICENSE
+└── package.json (optional root workspace)
